@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BattleTank.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Public\Spiel Projekte\Unreal Engine\UnrealKurs\repos\Abschnitt_4\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.cpp.obj"
+"C:\Users\Public\Spiel Projekte\Unreal Engine\UnrealKurs\repos\Abschnitt_4\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.cpp.obj"
+"C:\Users\Public\Spiel Projekte\Unreal Engine\UnrealKurs\repos\Abschnitt_4\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.init.gen.cpp.obj"
+"C:\Users\Public\Spiel Projekte\Unreal Engine\UnrealKurs\repos\Abschnitt_4\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Public\Spiel Projekte\Unreal Engine\UnrealKurs\repos\Abschnitt_4\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BattleTank.lib"

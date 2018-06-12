@@ -1,0 +1,5 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Performing full C++ include scan (no include cache file)
+  Target is up to date
+  Deploying BattleTankEditor Win64 Development...
+  Total build time: 1,96 seconds (NoActionsToExecute executor: 0,00 seconds)
